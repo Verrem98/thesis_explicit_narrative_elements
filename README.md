@@ -1,12 +1,12 @@
 # File Overview
 
-tell_me_again_df_with_elements.xlsx, the dataset used for the experiments including a column with LLM extracted elements in JSON format.
+tell_me_again_df_with_elements.xlsx, the dataset used for the experiments including a column with LLM extracted elements in JSON format. It is a subset of the full Tell Me Again! Dataset.
 
-results_by_method, contains notebooks with the experiment metrics for the five different methods
+results_by_method, contains notebooks with the experiment metrics for the five different methods.
 
-feature_extraction.ipynb, the notebook used to extract features from the film/book summaries
+feature_extraction.ipynb, the notebook used to extract features from the film/book summaries.
 
-similarity_comp.ipynb, a notebook containing the training of the attention model, and some similarity visualization
+similarity_comp.ipynb, a notebook containing the training of the attention model, and some similarity visualization.
 
 -----------------------
 
